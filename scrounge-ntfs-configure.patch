@@ -1,0 +1,12 @@
+--- configure.in.dist	2005-02-11 19:35:17.476141784 +0100
++++ configure.in	2005-02-11 19:35:51.230010416 +0100
+@@ -39,9 +39,6 @@
+ AC_INIT(scrounge-ntfs, 0.8.6, nielsen@memberwebs.com)
+ AM_INIT_AUTOMAKE(scrounge-ntfs, 0.8.6)
+ 
+-LDFLAGS="$LDFLAGS -L/usr/local/lib"
+-CFLAGS="$CFLAGS -I/usr/local/include"
+-
+ AC_CONFIG_SRCDIR([src/scrounge.c])
+ AM_CONFIG_HEADER([config.h])
+ 
