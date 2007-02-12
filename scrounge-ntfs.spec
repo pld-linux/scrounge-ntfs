@@ -1,5 +1,5 @@
 Summary:	Data recovery program for NTFS file systems
-Summary(pl):	Program odzyskuj±cy dane z systemu plików NTFS
+Summary(pl.UTF-8):   Program odzyskujÄ…cy dane z systemu plikÃ³w NTFS
 Name:		scrounge-ntfs
 Version:	0.8.6
 Release:	0.1
@@ -18,10 +18,10 @@ Scrounge NTFS is a data recovery program for NTFS filesystems. It
 reads each block of a hard disk and rebuilds the filesystem tree on
 another partition.
 
-%description -l pl
-Scrounge NTFS jest programem s³u¿±cym do odzyskiwania danych z
-partycji NTFS. Scrounge NTFS czyta ka¿dy blok twardego dysku i
-przebudowuje strukturê katalogów na inn± partycjê.
+%description -l pl.UTF-8
+Scrounge NTFS jest programem sÅ‚uÅ¼Ä…cym do odzyskiwania danych z
+partycji NTFS. Scrounge NTFS czyta kaÅ¼dy blok twardego dysku i
+przebudowuje strukturÄ™ katalogÃ³w na innÄ… partycjÄ™.
 
 %prep
 %setup -q
