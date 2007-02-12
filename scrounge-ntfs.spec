@@ -1,5 +1,5 @@
 Summary:	Data recovery program for NTFS file systems
-Summary(pl.UTF-8):   Program odzyskujący dane z systemu plików NTFS
+Summary(pl.UTF-8):	Program odzyskujący dane z systemu plików NTFS
 Name:		scrounge-ntfs
 Version:	0.8.6
 Release:	0.1
