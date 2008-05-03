@@ -1,12 +1,12 @@
 Summary:	Data recovery program for NTFS file systems
 Summary(pl.UTF-8):	Program odzyskujący dane z systemu plików NTFS
 Name:		scrounge-ntfs
-Version:	0.8.6
-Release:	0.1
+Version:	0.9
+Release:	1
 License:	BSD
 Group:		Applications/System
 Source0:	http://memberwebs.com/nielsen/software/scrounge/%{name}-%{version}.tar.gz
-# Source0-md5:	573b57e10557923f622786028c488815
+# Source0-md5:	851cbb9a1ce417cf61f2612626a1bc58
 Patch0:		%{name}-configure.patch
 URL:		http://memberwebs.com/nielsen/software/scrounge/
 BuildRequires:	autoconf
